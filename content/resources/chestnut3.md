@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: Chestnut Phase 2. Image courtesy of the studio, and used with permission.
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-945-springfield-studio-spring-2004/b2fe170ab6666fcc73be22f5dc321e61_chestnut3.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: Chestnut Phase 2.
+  credit: Image courtesy of the studio, and used with permission.
+  image-alt: Chestnut Phase 2.
+resourcetype: Image
+title: chestnut3.jpg
+uid: b2fe170a-b666-6fcc-73be-22f5dc321e61
+---
